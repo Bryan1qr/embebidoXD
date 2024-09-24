@@ -41,7 +41,13 @@ editor: visual
 </style>
 ```
 ::: {.shareagain data-exeternal="1"}
-<button class="fullscreen-button" onclick="toggleFullscreen()">Pantalla Completa</button> <iframe id="myIframe" src="https://bryan1qr.github.io/MESOMI/#datos-del-2024" loading="lazy" allowfullscreen></iframe>
+<button class="fullscreen-button" onclick="toggleFullscreen()">
+
+Pantalla Completa
+
+</button>
+
+<iframe id="myIframe" src="https://bryan1qr.github.io/MESOMI/#datos-del-2024" loading="lazy" allowfullscreen></iframe>
 :::
 
 ```{=html}
